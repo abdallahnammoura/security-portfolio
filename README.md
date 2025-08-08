@@ -1,2 +1,2 @@
 # security-portfolio
-Security Projects + Notes
+hands-on AWS security labs, SOC projects, and study notes
